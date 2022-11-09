@@ -1,0 +1,11 @@
+.DS_Store
+obj/
+*aux
+*db
+*db.lock
+*fls
+*log
+*out
+*synctex.gz
+*fdb_latexmk
+*pdf
