@@ -9,3 +9,5 @@ obj/
 *synctex.gz
 *fdb_latexmk
 *pdf
+*bbl
+*blg
