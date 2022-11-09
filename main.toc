@@ -1,0 +1,29 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{Introduction}{2}{section*.2}%
+\contentsline {section}{Lattice gauge theories}{2}{section*.3}%
+\contentsline {subsection}{A classical gauge symmetry}{2}{section*.4}%
+\contentsline {subsection}{The Dirac free electron and the photon field}{3}{section*.6}%
+\contentsline {section}{Defining the lattice}{4}{section*.7}%
+\contentsline {subsection}{A staggered lattice}{4}{section*.8}%
+\contentsline {subsection}{Wilson's formulation}{6}{section*.10}%
+\contentsline {subsection}{Physical interpretation and symmetry remarks}{7}{section*.12}%
+\contentsline {section}{Quantum link models}{8}{section*.13}%
+\contentsline {subsection}{U(1) quantum link model in (2+1) dimensions}{8}{section*.14}%
+\contentsline {subsubsection}{Remarks about the U(1) quantum link model's Hilbert space}{9}{section*.15}%
+\contentsline {subsection}{SU(N) quantum link model in (1+1) dimensions}{9}{section*.17}%
+\contentsline {subsubsection}{Remarks about the SU(N) quantum link model's Hilbert space}{10}{section*.18}%
+\contentsline {section}{Quantum simulations}{10}{section*.19}%
+\contentsline {subsubsection}{Exponentially large Hilbert space}{10}{section*.20}%
+\contentsline {subsubsection}{Sign problem}{10}{section*.21}%
+\contentsline {subsection}{Transformations for different quantum platforms}{11}{section*.22}%
+\contentsline {subsubsection}{Holstein-Primakoff transformation}{11}{section*.23}%
+\contentsline {subsubsection}{Jordan–Wigner transformation}{11}{section*.24}%
+\contentsline {subsection}{Digital quantum simulation}{12}{section*.25}%
+\contentsline {subsubsection}{Product formula algorithm}{12}{section*.26}%
+\contentsline {section}{Concluding remarks}{13}{section*.27}%
+\contentsline {section}{Acknowledgments}{13}{section*.28}%
+\contentsline {section}{Bibliography}{14}{section*.28}%
+\contentsline {chapter}{Appendices}{15}{section*.30}%
+\contentsline {section}{Holstein-Primakoff transformation commutation relations}{15}{section*.31}%
+\contentsline {section}{Jordan-Wigner commutation relations}{16}{section*.32}%
+\contentsline {section}{Writing down a quantum link model in terms of qubits}{18}{section*.33}%
